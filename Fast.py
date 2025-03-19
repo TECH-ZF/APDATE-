@@ -1,2 +1,2 @@
-from king import ssbbuy 
-ssbbuy()
+from Qsr8 import main
+main()
